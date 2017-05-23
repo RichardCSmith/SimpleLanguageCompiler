@@ -1,0 +1,25 @@
+$junk #1
+$main movw SP r0
+movw #10 @SP
+addw #4 SP
+movw #11 @SP
+addw #4 SP
+outw ^H
+outw ^e
+outw ^l
+outw ^l
+outw #32
+outw ^o
+outw #10
+outw @r0
+outw +4@r0
+outw ^1
+outw ^0
+outw ^1
+outw ^0
+outw ^1
+outw ^0
+outw #10
+outw @r0
+inb $junk :Pause
+end

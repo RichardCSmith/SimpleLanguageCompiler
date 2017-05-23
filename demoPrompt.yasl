@@ -1,0 +1,8 @@
+program demoPrint;
+const x = 10;
+var y: int;
+begin
+  prompt "Hi ", y;
+  prompt "bye";
+  print y
+end. 

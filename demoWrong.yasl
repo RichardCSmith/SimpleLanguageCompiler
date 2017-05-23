@@ -1,0 +1,16 @@
+program demo1;
+const x=6;
+const y=7;
+{const y = 1;}
+var z: int;
+var z: boolean;
+var a: boolean;
+proc testMethod(p: int, q: int);
+const tt=15;
+var qq: int;	
+  begin
+	print "p + q"
+  end;
+begin
+  print "x * y"
+end. 

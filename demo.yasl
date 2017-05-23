@@ -1,0 +1,15 @@
+program demo1;
+const x=6;
+const y=7;
+var z: int;
+var a: boolean;
+{proc testMethod(p: int, q: int);
+const tt=15;
+var qq: int;	
+  begin
+	print x
+	print "x + y"
+  end;}
+begin
+  print "x > y + 5 - x"
+end. 

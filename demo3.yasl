@@ -1,0 +1,13 @@
+program demo3;
+const x = 42;
+var y: boolean;
+proc foo;
+  const qq = 7;
+  var trueeeeee: int;
+  begin
+    print "hi"
+  end;
+begin
+  x = 3 + 2;
+  foo
+end. 

@@ -1,0 +1,8 @@
+program demoPrint;
+const x = 10;
+var y: int;
+begin
+  y = 4 + 1;
+  print y;
+  y = x + 4 * 2
+end. 

@@ -1,0 +1,10 @@
+program demoPrint;
+const x = 10;
+const y = 11;
+begin
+  print "Hell o";
+  print x;
+  print y;
+  print 101010;
+  print x
+end. 

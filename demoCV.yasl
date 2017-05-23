@@ -1,0 +1,5 @@
+program demo1;
+const x=6;
+var z: int;
+begin
+end. 
